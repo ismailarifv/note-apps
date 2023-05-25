@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #999999;
+  width: 100%;
+  min-height: 625px;
+  height: 100%;
+  box-sizing: content-box;
+}
+.App section{
+  height: 100%;
+}
+
